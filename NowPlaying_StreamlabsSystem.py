@@ -2,9 +2,9 @@ import time
 
 
 ScriptName = "Now playing"
-Website = "https://github.com/GoatTGirl"
+Website = "https://github.com/EllieTheYeen"
 Description = "Post current playing song name in chat"
-Creator = "GoatTGirl"
+Creator = "EllieTheYeen"
 Version = "1.0.0.0"
 
 # Just to make linter not complain
